@@ -681,7 +681,6 @@ header{
             gap: 24px;
         }
         .frame-box{
-            /* position: relative; */
             position: relative;
             .box-back{
                 z-index: 100px;
